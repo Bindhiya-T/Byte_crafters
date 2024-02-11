@@ -56,6 +56,7 @@ patch_sklearn()
 
 ## Demo
 Chatbot:
-https://github.com/Bindhiya-T/Byte_crafters/blob/caebc020122710f10e5793ef30c12d9c4023d66e/chatbot.png
+https://github.com/Bindhiya-T/Byte_crafters/blob/caebc020122710f10e5793ef30c12d9c4023d66e/chatbot.png 
+ 
 Customer Churn Prediction App:
 https://github.com/Bindhiya-T/Byte_crafters/blob/72d31de80efca2f218aeb8a74b6731c7138b0c1b/Demo.png
