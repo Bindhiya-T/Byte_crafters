@@ -48,16 +48,18 @@ patch_sklearn()
 ## How We built it
 ✅Installation and Importing of libraries  
 ✅Understanding the Data   
-✅Test Different Models and find the best model out of it   
-✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))  
+✅Testing Different Models and finding the best model out of it   
+✅Training the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))  
 ✅Save the model    
-✅User Interface with Llama 2 Chatbot
+✅Developing User Interface with Streamlit 
+✅Developing Llama 2 Chatbot
 
 
 ## Demo
  
-Customer Churn Prediction App: 
+**Customer Churn Prediction App:** 
 ![Churn_app](./Demo.png)
 
-Chatbot: 
+**Chatbot:** 
+![Chatbot](./chatbot.png)
 
