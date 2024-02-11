@@ -45,14 +45,6 @@ patch_sklearn()
  The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
 
 
-**Use of Streamlit and LLM:**
- The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
-
-
-**Use of Streamlit and LLM:**
- The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
-
-
 ## How We built it
 ✅Installation and Importing of libraries  
 ✅Understanding the Data   
