@@ -34,6 +34,7 @@ To use oneDAL in our project, we applied the sklearnex patch to our machine lear
 from sklearnex import patch_sklearn
 patch_sklearn()
 ```
+<chatbot.jpeg>
 
 
 ## How We built it
@@ -43,3 +44,4 @@ patch_sklearn()
 ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))  
 ✅Save the model    
 ✅User Interface
+
