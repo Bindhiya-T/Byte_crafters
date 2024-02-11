@@ -1,21 +1,26 @@
 
-# Customer Churn Prediction Using SMOTE
+# Customer Churn Prediction Using SMOTE with oneAPI
 Team Byte Crafters
 
 # Introduction 👋
 
 •	Project objective: The objective of our research is to investigate machine learning techniques, propose a model for anticipating customer churn, identify churning factors, and provide retention strategies.
 
-•	Factors considered: Using diverse machine learning techniques, including Gradient Boosting Classifier, Decision Tree Classifier, Random Forest Classifier, and Logistic Regression.
+•	Factors considered: Using diverse Machine learning techniques, Libraries like Scikit-learn & Streamlit, Python, LLM, Intel oneAPI Toolkit, oneDAL library and IDC(Intel Developer Cloud).
 
-•	Expected outcomes: The application of SMOTE allows for more accurate predictions and helps in reducing the impact of class imbalance on the model's performance.
+•	Expected outcomes: The Customer Churn Prediction model which gives accurate predictions. The Llama 2 Chatbot developed provides real-time assistance and valuable insights into Customer churn.
 
 ## 🛠 Built With
 Intel oneAPI    
-Scikit-learn     
+IDC(Intel Developer Cloud)  
+Machine Learning Using oneAPI Toolkit   
+Scikit-learn    
+Streamlit   
+LLM   
 oneDAL      
 Python  
-Jupyter 
+Jupyter
+ 
 
 
 ## Tech Stack
@@ -34,16 +39,33 @@ To use oneDAL in our project, we applied the sklearnex patch to our machine lear
 from sklearnex import patch_sklearn
 patch_sklearn()
 ```
-<chatbot.jpeg>
+
+
+**Use of Streamlit and LLM:**
+ The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
+
+
+**Use of Streamlit and LLM:**
+ The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
+
+
+**Use of Streamlit and LLM:**
+ The synergy of Streamlit and LLM allows seamless integration, providing an intuitive and efficient platform to build, deploy, and engage with the chatbot, bringing a personalized and responsive conversational experience to the users.
 
 
 ## How We built it
-✅First We Imported libraries  
-✅Understand the Data   
+✅Installation and Importing of libraries  
+✅Understanding the Data   
 ✅Test Different Models and find the best model out of it   
 ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))  
 ✅Save the model    
-✅User Interface
+✅User Interface with Llama 2 Chatbot
 
-https://github.com/Bindhiya-T/Byte_crafters/blob/main/chatbot.jpeg 
-![Chatbot](URL "https://github.com/Bindhiya-T/Byte_crafters/blob/main/chatbot.jpeg")
+
+## Demo
+
+Insert gif or link to demo
+
+
+![Chatbot]("https://github.com/Bindhiya-T/Byte_crafters/blob/main/chatbot.png" )
+
