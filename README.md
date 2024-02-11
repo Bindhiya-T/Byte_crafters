@@ -4,7 +4,7 @@ Team Byte Crafters
 
 # Introduction 👋
 
-•	Project objective: The objective of our research is to investigate machine learning techniques, propose a model for anticipating customer churn, identify churning factors, and provide retention strategies.
+•	Project objective: The objective of our project is to investigate machine learning techniques, propose a model for anticipating customer churn, identify churning factors, and provide retention strategies.
 
 •	Factors considered: Using diverse Machine learning techniques, Libraries like Scikit-learn & Streamlit, Python, LLM, Intel oneAPI Toolkit, oneDAL library and IDC(Intel Developer Cloud).
 
