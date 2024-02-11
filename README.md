@@ -63,9 +63,5 @@ patch_sklearn()
 
 
 ## Demo
-
-Insert gif or link to demo
-
-
-![Chatbot]("https://github.com/Bindhiya-T/Byte_crafters/blob/main/chatbot.png" )
-
+chatbot.png
+https://github.com/Bindhiya-T/Byte_crafters/blob/caebc020122710f10e5793ef30c12d9c4023d66e/chatbot.png
